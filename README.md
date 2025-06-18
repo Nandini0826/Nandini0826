@@ -10,7 +10,6 @@ I'm passionate about merging creativity with technology — building elegant web
 
 - 🛍️ Freelance Designer & Developer  
 - 💻 Build custom websites, branding, email designs & portfolios  
-- 🎬 Active in the film industry & manage social media for talents
 
 ---
 
