@@ -1,16 +1,20 @@
-## Hi there 👋
+# Hi there 👋, I'm Nandini
 
-<!--
-**Nandini0826/Nandini0826** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm an actress, boutique owner, and tech enthusiast who loves building cool things with React, Express, and MongoDB.
 
-Here are some ideas to get you started:
+## 💼 What I do
+- 🛍️ Run [Aarani Boutique](#)
+- 💻 Develop websites, logos & email designs
+- 🎬 Work in films & manage social media
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🔧 Tech Stack
+![React](https://img.shields.io/badge/-React-61DAFB?logo=react&logoColor=white&style=flat)
+![Node.js](https://img.shields.io/badge/-Node.js-339933?logo=node.js&logoColor=white&style=flat)
+![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?logo=mongodb&logoColor=white&style=flat)
+
+## 📈 GitHub Stats
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Nandini0826&show_icons=true&theme=radical)
+
+---
+
+_Thanks for visiting! 💖_
