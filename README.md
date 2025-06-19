@@ -32,4 +32,4 @@ I'm passionate about merging creativity with technology — building elegant web
 
 ---
 
-_Thanks for visiting my profile! Feel free to connect, collaborate, or just say hi 💬✨_
+_Thanks for visiting my profile! Feel free to connect, collaborate, or just chat about tech 💬✨_
