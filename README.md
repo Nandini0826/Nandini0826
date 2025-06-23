@@ -28,7 +28,6 @@ I'm passionate about merging creativity with technology — building elegant web
 
 ## 📈 GitHub Stats
 
-![Nandini's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Nandini0826&show_icons=true&theme=radical)
 <table>
   <tbody>
     <tr border="none">
