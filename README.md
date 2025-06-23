@@ -25,6 +25,8 @@ I'm passionate about merging creativity with technology — building elegant web
 ![Bootstrap](https://img.shields.io/badge/Bootstrap-563d7c?logo=bootstrap&logoColor=white)
 ![TailwindCSS](https://img.shields.io/badge/TailwindCSS-ffffff?logo=TailwindCSS&logoColor=blue)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?logo=javascript&logoColor=black&style=flat)
+![TypeScript](https://img.shields.io/badge/-TypeScript-1572B6?logo=typescript&logoColor=white&style=flat)
+
 
 ---
 
