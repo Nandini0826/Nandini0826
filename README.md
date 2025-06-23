@@ -23,7 +23,7 @@ I'm passionate about merging creativity with technology — building elegant web
 ![HTML5](https://img.shields.io/badge/-HTML5-E34F26?logo=html5&logoColor=white&style=flat)
 ![CSS3](https://img.shields.io/badge/-CSS3-1572B6?logo=css3&logoColor=white&style=flat)
 ![Bootstrap](https://img.shields.io/badge/Bootstrap-563d7c?logo=bootstrap&logoColor=white)
-![TailwindCSS](https://img.shields.io/badge/TailwindCSS-563d7c?logo=TailwindCSS&logoColor=white)
+![TailwindCSS](https://img.shields.io/badge/TailwindCSS-ffffff?logo=TailwindCSS&logoColor=blue)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?logo=javascript&logoColor=black&style=flat)
 
 ---
