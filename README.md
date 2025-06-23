@@ -29,6 +29,23 @@ I'm passionate about merging creativity with technology — building elegant web
 ## 📈 GitHub Stats
 
 ![Nandini's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Nandini0826&show_icons=true&theme=radical)
+<table>
+  <tbody>
+    <tr border="none">
+    <td width="50%" align="center">
+      <img align="center" src="https://github-readme-stats.vercel.app/api?username=Priyanshubasu0902&show_icons=true&theme=radical&show_icons=true&count_private=true"" />
+    </td>
+    <td rowspan='2' align="center">
+      <img align="center" width="100%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Priyanshubasu0902&theme=radical&hide_border=false&no-bg=true&no-frame=true&langs_count=6" />
+    </td>
+  </tr>
+  <tr border="none">
+    <td align="center" width="50%" align="center">
+      <img alt="Mark streak" src="https://github-readme-streak-stats-five-roan.vercel.app?user=Priyanshubasu0902&theme=radical">
+    </td>
+  </tr>
+  </tbody>
+</table>
 
 ---
 
