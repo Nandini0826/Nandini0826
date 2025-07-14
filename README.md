@@ -1,6 +1,6 @@
 # 👋 Hi there, I'm Nandini!
 
-💻 Tech Enthusiast | 🎨 Freelancer
+💻 Tech Enthusiast | 🎨 Freelancer | Web Developer
 
 I'm passionate about merging creativity with technology — building elegant websites, eye-catching logos, engaging emails, and full-stack web apps using modern tools like React, Express, and MongoDB.
 
